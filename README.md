@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Top Machine Learning Projects
 ### **1. [Linear Regression Modeling for Soccer Player Performance Prediction in the EPL](https://www.aionlinecourse.com/ai-projects/playground/linear-regression-modeling-for-soccer-player-performance-prediction-in-the-epl)**
 
 #### **Project Overview**
