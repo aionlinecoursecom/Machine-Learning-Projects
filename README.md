@@ -49,5 +49,5 @@ The Vegetable Classification project achieved high accuracy in classifying vario
 For more details and a hands-on experience, visit the **[Vegetable Classification Project](https://www.aionlinecourse.com/ai-projects/playground/vegetable-classification-with-parallel-cnn-model)** on AI Projects.
 
 ---
-### **Exciting new [Natural Language Processing Projects](https://www.aionlinecourse.com/ai-projects/categories/natural-language-processing-projects) are coming soon to our website. Visit our site at [AI Projects](https://www.aionlinecourse.com/ai-projects) to learn the latest projects and stay connected with us!**
+### **Exciting new [Machine Learning Projects](https://www.aionlinecourse.com/ai-projects/categories/machine-learning-projects) are coming soon to our website. Visit our site at [AI Projects](https://www.aionlinecourse.com/ai-projects) to learn the latest projects and stay connected with us!**
 ---
