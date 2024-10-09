@@ -13,7 +13,7 @@ This project focuses on **linear regression modeling** to predict EPL soccer pla
 #### **Project Outcome**
 The model accurately predicts EPL soccer player performance, providing a valuable tool for team management and scouting, helping optimize player selection and recruitment strategies.
 
-For more details, visit the **[EPL Soccer Player Performance Prediction Project](https://www.aionlinecourse.com/ai-projects/playground/linear-regression-modeling-for-soccer-player-performance-prediction-in-the-epl)** on Ai-projects.
+For more details, visit the **[EPL Soccer Player Performance Prediction Project](https://www.aionlinecourse.com/ai-projects/playground/linear-regression-modeling-for-soccer-player-performance-prediction-in-the-epl)** on AI Projects.
 
 ---
 ### **2. [Insurance Pricing Forecast Using XGBoost Regressor](https://www.aionlinecourse.com/ai-projects/playground/insurance-pricing-forecast-using-xgboost-regressor)**
@@ -30,7 +30,7 @@ This project focuses on using the **XGBoost Regressor** to predict healthcare ex
 #### **Project Outcome**
 The XGBoost Regressor outperformed linear regression, offering a more accurate prediction model. This approach helps insurance companies set reliable premiums based on predicted healthcare costs, improving profitability and operational efficiency.
 
-For more details, visit the **[Insurance Pricing Forecast Project](https://www.aionlinecourse.com/ai-projects/playground/insurance-pricing-forecast-using-xgboost-regressor)** on Ai-projects.
+For more details, visit the **[Insurance Pricing Forecast Project](https://www.aionlinecourse.com/ai-projects/playground/insurance-pricing-forecast-using-xgboost-regressor)** on AI Projects.
 
 ---
 ### **3. [Vegetable Classification with Parallel CNN Model](https://www.aionlinecourse.com/ai-projects/playground/vegetable-classification-with-parallel-cnn-model)**
@@ -46,8 +46,8 @@ This project focuses on classifying different types of vegetables using deep lea
 #### **Project Outcome:**
 The Vegetable Classification project achieved high accuracy in classifying various vegetables using both traditional and parallel CNN models. It demonstrates how deep learning can automate vegetable sorting, benefiting industries like agriculture and food retail by improving efficiency and reducing manual effort.
 
-For more details and a hands-on experience, visit the **[Vegetable Classification Project](https://www.aionlinecourse.com/ai-projects/playground/vegetable-classification-with-parallel-cnn-model)** on Ai-projects.
+For more details and a hands-on experience, visit the **[Vegetable Classification Project](https://www.aionlinecourse.com/ai-projects/playground/vegetable-classification-with-parallel-cnn-model)** on AI Projects.
 
 ---
-### **Exciting new [Machine Learning projects](https://www.aionlinecourse.com/ai-projects/categories/machine-learning-projects) are coming soon to our website. Visit our site at [Ai-projects](https://www.aionlinecourse.com/ai-projects) to learn the latest projects and stay connected with us!**
+### **Exciting new [Natural Language Processing Projects](https://www.aionlinecourse.com/ai-projects/categories/natural-language-processing-projects) are coming soon to our website. Visit our site at [AI Projects](https://www.aionlinecourse.com/ai-projects) to learn the latest projects and stay connected with us!**
 ---
