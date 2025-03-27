@@ -375,13 +375,5 @@ The custom polynomial regression model excels at fitting non-linear data, outper
 For more details and to explore the code, check out the [Polynomial Regression Project](https://www.aionlinecourse.com/ai-projects/playground/learn-to-build-a-polynomial-regression-model-from-scratch) on AI Projects!  
 
 ---
-
-
-
-
-
-
-
----
 ### **Exciting new [Machine Learning Projects](https://www.aionlinecourse.com/ai-projects/categories/machine-learning-projects) are coming soon to our website. Visit our site at [AI Projects](https://www.aionlinecourse.com/ai-projects) to learn the latest projects and stay connected with us!**
 ---
